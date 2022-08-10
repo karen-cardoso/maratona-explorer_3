@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(https://www.supremoarabica.com.br/wp-content/uploads/2019/12/iStock-1135359711-1.jpg);
+  background-color: #ffedd5;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -19,7 +19,7 @@ h3,
 .price {
   font-family: 'Roboto Serif', serif;
   text-transform: uppercase;
-  color: #fed7aa;
+  color: #2d2c2a;
 }
 
 header {
@@ -54,7 +54,7 @@ section {
 }
 
 section h2 {
-  background-color: #995000;
+  background-color: #fed7aa;
   padding: 8px 16px;
   text-align: center;
 
