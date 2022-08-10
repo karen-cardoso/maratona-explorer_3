@@ -1,10 +1,11 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  background-color: #ffedd5;
+  background-image: url(https://www.supremoarabica.com.br/wp-content/uploads/2019/12/iStock-1135359711-1.jpg);
   font-family: 'Roboto', sans-serif;
 }
 
@@ -46,7 +47,7 @@ header p {
   font-size: 14px;
   line-height: 16px;
 
-  color: rgba(0, 0, 0, 0.7);
+  color: rgba(148, 134, 134, 0.7);
 }
 section {
   margin-bottom: 24px;
