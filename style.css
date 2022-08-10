@@ -67,17 +67,17 @@ ul li {
 }
 
 li .details {
-  max-width: 240px;
+  max-width: 220px;
 }
 
 .details h3 {
+  max-width: 300px;
   margin-bottom: 8px;
   font-size: 16px;
   line-height: 19px;
-  gap: 16px;
 }
 
-.details p {
+.description {
   color: rgba(0, 0, 0, 0.6);
   font-size: 14px;
   line-height: 21px;
