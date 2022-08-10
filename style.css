@@ -5,12 +5,25 @@
 }
 
 body {
-  background-color: #ffedd5;
+  background-image: url(8x8ft-nuvens-dos-desenhos-animados-c-u-azul-super-bros-jogo-personalizado-foto-fundos-est-dio.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 5px 0px;
+  max-width: 340px;
+  border-radius: 15px;
+  background-color: rgba(256, 256, 256, 0.5);
 }
 
 ul {
   list-style: none;
+}
+.logo {
+  width: 200px;
 }
 
 h1,
@@ -54,7 +67,7 @@ section {
 }
 
 section h2 {
-  background-color: #fed7aa;
+  background-color: #e0d517;
   padding: 8px 16px;
   text-align: center;
 
