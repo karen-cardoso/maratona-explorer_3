@@ -52,15 +52,11 @@ header h1 {
   line-height: 33px;
 }
 
-header h1 span {
-  color: #995000;
-}
-
 header p {
   font-size: 14px;
   line-height: 16px;
 
-  color: rgba(148, 134, 134, 0.7);
+  color: rgba(0, 0, 0, 0.6);
 }
 section {
   margin-bottom: 24px;
